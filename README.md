@@ -31,7 +31,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-leonardo-rodrigues-de-freitas-7655061ab/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thiago.leonardo.923/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.leonardo.923/)
-### Veja meu currículo clicando [AQUI](https://drive.google.com/file/d/1WBZxppsFMCg94qrRrMinKzTWLFV2AhNO/view?usp=sharing _blank)
+### Veja meu currículo clicando [AQUI](https://drive.google.com/file/d/1WBZxppsFMCg94qrRrMinKzTWLFV2AhNO/view?usp=sharing_blank)
 ### Veja meu portfólio clicando [AQUI](https://tleofreitas.github.io/Portfolio/)
 
 <hr />
