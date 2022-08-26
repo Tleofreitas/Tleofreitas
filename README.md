@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full-Stack em formação.
 
-### Escola: SENAI (EAD) - Conclusão em Julho 2022
+### Escola: SENAI (EAD) - Concluído em Julho 2022
 ### Escola: DevSuperior (EAD) - Conclusão prevista em Janeiro 2023
 <hr/>
 
