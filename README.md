@@ -33,8 +33,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thiago.leonardo.923/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.leonardo.923/)
 -->
-### Veja meu currículo clicando [AQUI](https://drive.google.com/file/d/1f1NP-LnCieB4cJeQjI74UdCBdPZT-8j9/view?usp=sharing)
+### Veja meu currículo clicando [AQUI](https://docs.google.com/document/d/1ccFxNqSrdhbwOlcwKEHbSHkEmJsYj_pg/edit?usp=share_link&ouid=102885376604809580891&rtpof=true&sd=true)
 ### Veja meu portfólio clicando [AQUI](https://tleofreitas.github.io/Portfolio/)
+### Veja meu currículo Europass clicando [AQUI](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/f75905d2-b017-4aa1-a2af-29c4a40beaf0?view=html)
 
 <hr />
 
