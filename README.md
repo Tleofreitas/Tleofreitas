@@ -1,9 +1,9 @@
 ### Olá, eu sou Thiago Freitas! ❤️‍🔥🙏
 
-### Desenvolvedor Full-Stack em formação.
+### Desenvolvedor Full-Stack
 
 ### Escola: SENAI (EAD) - Concluído em Julho 2022
-### Escola: DevSuperior (EAD) - Conclusão prevista em Janeiro 2023
+### Escola: DevSuperior (EAD) - Concluído em Outubro 2023
 <hr/>
 
 ### Tecnologias nível iniciante (sem experiência):
@@ -33,10 +33,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thiago.leonardo.923/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.leonardo.923/)
 -->
+### Veja mais informações no meu portfólio clicando [AQUI](https://tleofreitas.github.io/Portfolio/)
+<!---
 ### Veja meu currículo clicando [AQUI](https://drive.google.com/file/d/1Omd29MPcGpk1KMUfzHmmTQDD_bAnG_09/view?usp=share_link)
-### Veja meu portfólio clicando [AQUI](https://tleofreitas.github.io/Portfolio/)
 ### Veja meu currículo Europass clicando [AQUI](https://drive.google.com/file/d/16lSRK2dUsGNVMRHkD8FaQJ-hGaP9f83Z/view?usp=share_link)
-
+-->
 <hr />
 
 #### E-mail's:
