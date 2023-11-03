@@ -4,9 +4,13 @@
 
 ### Escola: SENAI (EAD) - Concluído em Julho 2022
 ### Escola: DevSuperior (EAD) - Concluído em Outubro 2023
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511951221949)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-leonardo-rodrigues-de-freitas-7655061ab/)
+### Veja meu [Portfólio](https://tleofreitas.github.io/Portfolio/)
 <hr/>
 
-### Tecnologias nível iniciante (sem experiência):
+### Tecnologias nível Junior:
 <!-- <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,16 +28,6 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tleofreitas&layout=compact)](https://github.com/Tleofreitas/github-readme-stats)
-<hr />
-
-### Mais sobre mim:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511951221949)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-leonardo-rodrigues-de-freitas-7655061ab/)
-<!---
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thiago.leonardo.923/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.leonardo.923/)
--->
-### Veja mais informações no meu portfólio clicando [AQUI](https://tleofreitas.github.io/Portfolio/)
 <!---
 ### Veja meu currículo clicando [AQUI](https://drive.google.com/file/d/1Omd29MPcGpk1KMUfzHmmTQDD_bAnG_09/view?usp=share_link)
 ### Veja meu currículo Europass clicando [AQUI](https://drive.google.com/file/d/16lSRK2dUsGNVMRHkD8FaQJ-hGaP9f83Z/view?usp=share_link)
