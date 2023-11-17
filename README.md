@@ -7,7 +7,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511951221949)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-leonardo-rodrigues-de-freitas-7655061ab/)
-### Veja meu [Portfólio](https://tleofreitas.github.io/Portfolio/)
+### Veja meu [Portfólio](https://portfolio-thiago-freitas.vercel.app/)
 ### Veja meu [Currículo](https://drive.google.com/file/d/1KRCZcc1CQ2WdW-W0iobBsZ2HwYwV5kS1/view?usp=sharing)
 <hr/>
 
